@@ -210,7 +210,7 @@ func update (id int, description string, status string, filePath string) (string
 			}
 		}
 	}
-	returnMessage := tasks[updatedIndex].Status + tasks[updatedIndex].Description
+	returnMessage := tasks[updatedIndex].Status + " " + tasks[updatedIndex].Description
 	return returnMessage, nil
 }
 

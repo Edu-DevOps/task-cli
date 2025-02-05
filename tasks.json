@@ -40,5 +40,12 @@
 		"status": "To-Do",
 		"createdAt": "2025-02-05T23:57:49.620686+01:00",
 		"updatedAt": "2025-02-05T23:57:49.620687+01:00"
+	},
+	{
+		"id": 7,
+		"description": "prime defensivo",
+		"status": "To-Do",
+		"createdAt": "2025-02-06T00:03:07.436647+01:00",
+		"updatedAt": "2025-02-06T00:03:07.436647+01:00"
 	}
 ]
